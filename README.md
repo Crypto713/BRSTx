@@ -1,4 +1,4 @@
 # BRSTx [Signum]
 
-BRSTx - A Secret Society focusing an various WEBdev projects.
+BRSTx - A Secret Society focusing on various WEBdev projects.
 
