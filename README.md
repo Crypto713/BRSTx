@@ -1,4 +1,4 @@
 # BRSTx
 
-BRSTx is Secret WEBdev
+Secret WEBdev
 
