@@ -1,4 +1,4 @@
 # BRSTx
 
-BRSTx is a Secret Society focusing an various projects.
+BRSTx is a Secret Society focusing an various WEBdev projects.
 
